@@ -6,6 +6,7 @@ I’m currently working on:
 
 - A **React Native** + **Expo** app to detect dangerous objects and areas in the rooms of Alzheimer's patients.
 - A **Swift**-based migraine tracking app focused on granular visual aura data for research purposes.
+- A **React and Tailwind**-based web app to collaborate more easily between students and faculty within Texas State University's Center for Analytics and Data Science.
 
 ---
 
