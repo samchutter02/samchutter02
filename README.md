@@ -22,6 +22,6 @@ I’m currently working on:
 
 ## 🤝 Let's Connect
 
-Feel free to reach out via email or text about collaboration, freelance projects, or job opportunities.  
+Feel free to reach out via email or text about collaboration, co-projects, or job opportunities.  
 I’m always excited to work on innovative tech and meaningful problem-solving.
 
