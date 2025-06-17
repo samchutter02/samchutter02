@@ -4,7 +4,7 @@ Hello! My name is **Sam Chutter**, and I’m an aspiring software engineer based
 
 I’m currently working on:
 
-- A **React Native** + **Expo** app to detect dangerous objects and areas in the rooms of Alzheimer's patients.
+- A **React Native** + **Expo** app and LLM to detect dangerous objects and areas in the rooms of Alzheimer's patients.
 - Converting my existing **Swift**-based migraine tracking app focused on granular visual aura data for research purposes to **React Native**.
 - A **React and Tailwind**-based web app to facilitate project connections more intuitively between students and faculty within Texas State University's Center for Analytics and Data Science.
 
