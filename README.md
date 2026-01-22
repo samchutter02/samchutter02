@@ -1,12 +1,8 @@
 # About Me
 
-Hello! My name is **Sam Chutter**, and I’m an aspiring software engineer based in the Hill Country, TX.
+Hello! My name is **Sam Chutter**, and I’m an aspiring software engineer currently based in the Tucson, AZ.
 
-I’m currently working on:
-
-- A **React Native** + **Expo** app and ai model to detect dangerous objects and areas in the rooms of Alzheimer's patients.
-- Converting my existing **Swift**-based migraine tracking app focused on granular visual aura data for research purposes to **React Native**.
-- A **React and Tailwind**-based web app to facilitate project connections more intuitively between students and faculty within Texas State University's Center for Analytics and Data Science.
+I’m currently working as a full-stack web developer.
 
 ---
 
