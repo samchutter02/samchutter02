@@ -1,8 +1,8 @@
 # About Me
 
-Hello! My name is **Sam Chutter**, and I’m an aspiring software engineer currently based in the Tucson, AZ.
+Hello! My name is **Sam Chutter**, and I’m currently based in the Tucson, AZ.
 
-I’m currently working as a full-stack web developer.
+I’m a full-stack web developer currently using the LEMP stack.
 
 ---
 
